@@ -1,0 +1,131 @@
+/* Title font: font-family: Georgia, serif; */
+/* Main body font: font-family: 'Trebuchet MS', sans-serif; */
+
+/* Header style */
+header {
+    background-color: #0e2617;
+    color: #fff;
+    padding: 10px 0;
+    margin: -10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 20px;
+    padding: 10px 0;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Main body style */
+h1,
+h2,
+section,
+nav,
+footer {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: #000;
+    padding: 0;
+}
+
+h2 {
+    font-weight: normal;
+    color: #000;
+    padding: 20px 0;
+    font-size: 40px;
+}
+
+section {
+    font-weight: normal;
+    color: #000;
+    padding: 20px 0;
+    font-size: 25px;
+}
+
+/* Footer style */
+footer {
+    font-weight: normal;
+    text-align: center;
+    padding: 15px;
+    background-color: #0e2617;
+    color: #fff;
+    margin: -10px;
+}
+
+/* HTML style (background) */
+html {
+    background-color: #9e9c8d;
+}
+
+/* CSS for Records Page images */
+.list-image {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 260px;
+}
+
+/* Style for the records list */
+.records-list ol {
+    text-align: center;
+    list-style-position: inside;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 18px;
+    max-width: 800px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.records-list ol {
+    counter-reset: item;
+}
+
+.records-list li {
+    counter-increment: item;
+    margin-bottom: 30px;
+    text-align: justify;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.records-list li::before {
+    content: counter(item) ". ";
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.records-list li img {
+    margin-left: 20px;
+}
+
+/* CSS Page for history */
+.history-list ol {
+    margin: 0 auto;
+    padding: 0;
+    font-size: 18px;
+    max-width: 800px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.history-list li {
+    margin-bottom: 30px;
+    text-align: justify;
+    display: flex;
+    padding: 15px 0;
+    font-family: 'Trebuchet MS', sans-serif;
+}

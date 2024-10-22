@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "title": "Most Career Receiving Touchdowns",
+      "holder": "Jerry Rice",
+      "value": "197",
+      "description": "Jerry Rice was one of the greatest wide receivers that the NFL has ever seen. His record of 197 Receiving Touchdowns proves that he was not only great, but he was consistently great throughout his career.",
+      "image": "./images/Jerry Rice.jpg"
+    },
+    {
+      "title": "Most Career Tackles",
+      "holder": "Ray Lewis",
+      "value": "1,568",
+      "description": "Ray Lewis was a well-respected, very feared Linebacker. This record is a testament to why that is. His career record for most solo tackles may never be broken.",
+      "image": "./images/Ray Lewis.jpg"
+    },
+    {
+      "title": "Most Receiving Yards in a Single Game",
+      "holder": "Willie Anderson",
+      "value": "336 yards",
+      "description": "This record is shocking when you consider that most teams average less total yards than this in a single game. Willie Anderson did this as a single player.",
+      "image": ""
+    },
+    {
+      "title": "Most Sacks in 1 Game",
+      "holder": "Derrick Thomas",
+      "value": "7",
+      "description": "To any non-football fan, 7 sacks may not sound like much. However, in a single game, 1 sack is considered a good performance for a pass rusher. This puts into perspective just how insane 7 sacks is in a single game.",
+      "image": ""
+    },
+    {
+      "title": "Most Career Super Bowl Wins",
+      "holder": "Tom Brady",
+      "value": "7",
+      "description": "When Tom Brady won his 6th Super Bowl with the Patriots, many people attributed his success to his head coach, Bill Belichick, and the great defenses that the Patriots have had throughout his career. However, Tom Brady disproved these accusations when he won his 7th Super Bowl with a completely different team. 7 Super Bowl rings is the most of any NFL player of all time.",
+      "image": "./images/Tom Brady.jpg"
+    },
+    {
+      "title": "Perfect NFL Record",
+      "holder": "Miami Dolphins",
+      "value": "1972",
+      "description": "The Dolphins are the only team to ever have a truly perfect, undefeated NFL season. They won every regular season game, every playoff game, and they went on to win the Super Bowl. No other team has accomplished this.",
+      "image": "./images/Miami Dolphins.jpg"
+    },
+    {
+      "title": "Most (Team) Interceptions in a Season",
+      "holder": "1986 49ers",
+      "value": "39",
+      "description": "The defense of the San Francisco 49ers was a quarterback's worst nightmare in 1986. This means that as a team, they averaged more than 2 interceptions per game. This defense was not only impressive, but also consistent.",
+      "image": ""
+    },
+    {
+      "title": "Most Total Wins (Modern Era)",
+      "holder": "Pittsburgh Steelers",
+      "value": "519",
+      "description": "Since 1970, the team with the most wins is the Steelers. 1970-Present is often considered the 'modern era' of the NFL. Before that, AFL and NFL hadn't merged yet, which makes statistics from before 1970 less significant.",
+      "image": "./images/Steelers.jpg"
+    },
+    {
+      "title": "Most Consecutive Losses",
+      "holder": "Tampa Bay Buccaneers",
+      "value": "26 losses",
+      "description": "The Buccaneers have been a well-respected team in the last few years, but this wasn't always the case. In 1976 and 1977, the Buccaneers were a ridiculously bad team. To most fans, 26 losses in a row seems almost impossible.",
+      "image": ""
+    },
+    {
+      "title": "Most (Team) Sacks in a Single Season",
+      "holder": "1984 Bears",
+      "value": "72",
+      "description": "The 1984 Bears were known for their electric defense. This record shows just how unstoppable their defensive line was. The 1989 Minnesota Vikings almost beat this with 71 sacks, but nowadays, this record is unlikely to be broken.",
+      "image": "./images/Bears.jpg"
+    }
+  ]
+}

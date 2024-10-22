@@ -1,0 +1,24 @@
+{
+    "history": [
+        {
+            "title": "Origins of the Game",
+            "body": "The history of the NFL began before any official league was founded, as the game we all know and love today was initially based on Rugby. Universities such as Yale and Harvard adopted the game from other European institutions back in the late 1800s. Later, in 1920, the American Professional Football League was founded, giving Jim Thorpe the honor of being the first President of the league. The organization switched to the National Football League, which has been constant to this day. There were originally 5 teams, and out of those 5, only the current Chicago Bears and Arizona Cardinals still exist.",
+            "image": "./images/rugby.jpg"
+        },
+        {
+            "title": "The Legacy of Walter Camp",
+            "body": "Known as the “Father of American Football,” Walter Camp was perhaps the most influential person in American football today as we know it. He both played and coached at Yale, where he reinvented the sport. His first major contribution was that instead of having a scramble for the ball during each play, the player pitches the ball back to another person on their team, which eventually leads to the quarterback position. This led to games being slow and boring, so he implemented a system where each team must move 5 yards forward over the course of 3 downs(plays) or have to move 10 yards back. This later evolved into the 10 yards and 4 downs standard today. Not only did he revolutionize the movement of the game, he reimagined the scoring system. He suggested that a touchdown be worth 2 points, the goal 4 points, and a field goal 5 points. The field goal was later changed to 3 points in 1909 and the touchdown to 6 points in 1912. With the legacy he left behind, the annual award given to the best all-around collegiate football player is named the Walter Camp Award.",
+            "image": "./images/walterCamp.png"
+        },
+        {
+            "title": "Evolution of Standards",
+            "body": "Until 1896, US football players widely did not use any form of protection over their heads. Helmets were introduced in that year, although they were simple leather caps. With the game getting more popular, in 1905 there were an astounding 18 deaths due to football injuries, which prompted Theodore Roosevelt to call a meeting with over 60 colleges, in which they developed the rules of contact to promote safer play. In 1939, they introduced the first plastic helmets, which were similar to what is worn today, although not nearly as safe. Due to the strength of these new helmets, the NFL banned “spearing,” leading with the helmet into another player. In 2023, there were over 200 concussions in the NFL, but there have been incredible advances in preventing, treating, and spotting concussions.",
+            "image": "./images/helmet.jpg"
+        },
+        {
+            "title": "Merging Leagues",
+            "body": "In the 1960s another football league, the American Football League, was reaching a popularity level close to the NFL, and the two decided to merge into the most dominant league in the country, the NFL. In 1967, the two leagues played the first-ever true football championship, the “AFL-NFL World Championship Game,” later to be known as the Super Bowl. In 1969, the iconic roman numerals to mark how many Super Bowls there have been were put into use.",
+            "image": "./images/leagueLogo.jpg"
+        }
+    ]
+}
